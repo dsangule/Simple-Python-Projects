@@ -28,13 +28,11 @@ This repository contains four simple Python projects created for practice purpos
 ## Tutorial Source
 
 These projects were created following the tutorial from the YouTube video:
-Simple Python Projects for Beginners
+Simple Python Projects for Beginners<br>
 https://www.youtube.com/watch?v=kQ8DGP9p2LY
 
 ## Usage
 
-Clone the repository:
-`git clone https://github.com/dsangule/Simple-Python-Projects.git`
-Install the required dependencies:
-`pip install PySimpleGUI`
-Navigate to the desired project folder and run the Python file.
+- Clone the repository: `git clone https://github.com/dsangule/Simple-Python-Projects.git`
+- Install the required dependencies: `pip install PySimpleGUI`
+- Navigate to the desired project folder and run the Python file.
